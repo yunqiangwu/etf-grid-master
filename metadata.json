@@ -1,0 +1,5 @@
+{
+  "name": "ETF Grid Master",
+  "description": "A specialized grid trading backtesting tool for ETFs with Chinese interface and visual analytics.",
+  "requestFramePermissions": []
+}
