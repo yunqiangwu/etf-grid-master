@@ -17,8 +17,8 @@ const GridForm: React.FC<Props> = ({ onRun, onHistory, isLoading, initialConfig 
   const [basePrice, setBasePrice] = useState('0.800');
   
   // Grid settings
-  const [risePercent, setRisePercent] = useState('5.0'); // Default 5%
-  const [fallPercent, setFallPercent] = useState('5.0'); // Default 5%
+  const [risePercent, setRisePercent] = useState('2.0'); // Default 5%
+  const [fallPercent, setFallPercent] = useState('2.0'); // Default 5%
   const [buyCount, setBuyCount] = useState('1000');
   const [sellCount, setSellCount] = useState('1000');
   
